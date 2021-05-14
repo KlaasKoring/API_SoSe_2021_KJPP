@@ -1,0 +1,1 @@
+# Struktur und Format analog zu Sprint 1
